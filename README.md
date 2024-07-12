@@ -16,10 +16,9 @@ I am a highly motivated Data Analyst with a strong technical background and impe
 
 This project involves analyzing a dataset of real estate trends across the United States from the year 2000 to 2024. The goal was to clean, transform, and visualize the data to uncover insights into home value trends over time.
 
+### 2. [Formula 1 Data Analysis](https://jupyter.org/try-jupyter/notebooks/index.html?path=notebooks%2FUntitled11.ipynb)
 
-## Project 2 
+#### Project Overview
 
-#### Project Overview 
+In this project, I analyzed data from Formula 1, focusing on constructors and drivers. Using a bipartite graph, I visualized relationships between constructors and drivers, analyzed centrality metrics to identify key players, and ensured network connectivity. The goal was to uncover insights into the interactions between different entities in the Formula 1 ecosystem and to understand the influence of various drivers and constructors.
 
-
- ### Link : https://github.com/Alextheprogrammer3/US-Real-Estate-Project
