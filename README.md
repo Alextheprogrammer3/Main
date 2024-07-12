@@ -4,3 +4,10 @@ Hi, I'm Alex! I have a technical background and hold a Bachlor's Degree from the
 
 [My Data Science Blog - Medium](https://medium.com/@alexhernandez_67007)
 
+My data Project
+
+Below, I have listed some of my recent Jupyter Notebooks that include real-world datasets and my experiments with them. Through these projects, I tell unique stories from my perspective. Many of these are short projects as I have been dedicated to learning about various industries.
+
+About Me
+I am a highly motivated Data Analyst with a strong technical background and impeccable communication skills. My passion lies in supplying superior analysis and business intelligence support to outcome-focused organizations. I leverage my project management and leadership team support skills to drive digital transformation through innovative problem-solving approaches. Proficient in data visualization and report preparation, I thrive on making strategic business decisions that have a significant impact. In my spare time, I enjoy spending time with my dogs and discovering new ways to tell stories using data.
+
