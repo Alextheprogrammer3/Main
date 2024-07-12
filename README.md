@@ -1,6 +1,10 @@
 # Alex Hernandez - Data Analyst Portfolio
 
-Hello, I'm Alex Hernandez! With a Bachelor's Degree in Communications from the University of California San Diego, my journey began in IT support and naturally transitioned to data science and analytics. My curiosity was piqued when I saw peers engaged in coding, leading me to explore and develop a passion for this field. I embraced the challenge, developed several projects, and have since been committed to advancing in data analytics.
+Hello, I'm Alex Hernandez! With a Bachelor's Degree in Communications from the University of California San Diego, my career began in IT support but evolved as I discovered a passion for data science and analytics. My journey into this field was sparked by observing my peers coding and solving problems through data. This ignited my curiosity, leading me to delve deeply into data science and analytics.
+
+Through self-study and various projects, I have honed my skills in data visualization, statistical analysis, and machine learning. Each project has been a stepping stone, reinforcing my commitment to making data-driven decisions that can influence strategic outcomes.
+
+My ambition is to leverage data science to tackle complex challenges, drive innovation, and contribute to transformative solutions in various industries. I am eager to continue learning and pushing the boundaries of what data can reveal, aspiring to take on advanced projects and leadership roles in the future.
 
 [My Data Science Blog - Medium](https://medium.com/@alexhernandez_67007)
 
@@ -20,7 +24,7 @@ This project analyzes real estate trends across the United States from 2000 to 2
 **Project Overview:**  
 In this project, I investigated Formula 1 data to explore the relationships between constructors and drivers. Using a bipartite graph, I visualized these relationships, calculated centrality metrics, and ensured the network's connectivity. The analysis aimed to provide a deeper understanding of interactions and influence within the Formula 1 ecosystem.
 
-### 3. [Neural Network Experiment](https://github.com/Alextheprogrammer3/Neutral-Network-Experiment)
+### 3. [Neural Network Experiment](https://github.com/Alextheprogrammer3/Neutral-Network-Experiment-)
 
 **Project Overview:**  
 This project involves experimenting with neural networks, focusing on various architectures and hyperparameters. The goal was to analyze how different configurations impact model performance, providing insights into optimizing neural networks for diverse data-driven tasks.
