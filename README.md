@@ -1,24 +1,27 @@
 # Alex Hernandez - Data Analyst Portfolio
 
-Hi, I'm Alex! I have a technical background and hold a Bachelor's Degree from the University of California San Diego, with a major in Communications. I started as an IT support student at UCSD and gradually gravitated towards communications and data science once I discovered my passion for it. One day, I saw a lot of kids coding and programming in my dorm, which made me wonder if I could give it a shot and see if there was potential for me in that field. I studied relentlessly and came up with some projects that I really enjoyed making. Since then, I have never looked back.
+Hello, I'm Alex Hernandez! With a Bachelor's Degree in Communications from the University of California San Diego, my journey began in IT support and naturally transitioned to data science and analytics. My curiosity was piqued when I saw peers engaged in coding, leading me to explore and develop a passion for this field. I embraced the challenge, developed several projects, and have since been committed to advancing in data analytics.
 
 [My Data Science Blog - Medium](https://medium.com/@alexhernandez_67007)
 
 ## About Me
 
-I am a highly motivated Data Analyst with a strong technical background and impeccable communication skills. My passion lies in supplying superior analysis and business intelligence support to outcome-focused organizations. I leverage my project management and leadership team support skills to drive digital transformation through innovative problem-solving approaches. Proficient in data visualization and report preparation, I thrive on making strategic business decisions that have a significant impact. In my spare time, I enjoy spending time with my dogs and discovering new ways to tell stories using data.
+I am a dedicated Data Analyst with a robust technical foundation and excellent communication skills. My expertise lies in delivering insightful analysis and business intelligence that drives strategic decisions. I excel in data visualization, report preparation, and leveraging project management skills to support digital transformation. Outside of work, I enjoy spending time with my dogs and exploring innovative ways to tell stories through data.
 
 ## Projects
 
-### 1. [US Real Estate Dataset](https://github.com/yourusername/USRealEstateDataset)
+### 1. [US Real Estate Dataset](https://github.com/Alextheprogrammer3/US-Real-Estate-Project)
 
-#### Project Overview
+**Project Overview:**  
+This project analyzes real estate trends across the United States from 2000 to 2024. I focused on data cleaning, transformation, and visualization to uncover significant insights into home value trends over time.
 
-This project involves analyzing a dataset of real estate trends across the United States from the year 2000 to 2024. The goal was to clean, transform, and visualize the data to uncover insights into home value trends over time.
+### 2. [Formula 1 Data Analytics](https://github.com/Alextheprogrammer3/Formula-1-Data-Analytics-Project-)
 
-### 2. [Formula 1 Data Analysis](https://jupyter.org/try-jupyter/notebooks/index.html?path=notebooks%2FUntitled11.ipynb)
+**Project Overview:**  
+In this project, I investigated Formula 1 data to explore the relationships between constructors and drivers. Using a bipartite graph, I visualized these relationships, calculated centrality metrics, and ensured the network's connectivity. The analysis aimed to provide a deeper understanding of interactions and influence within the Formula 1 ecosystem.
 
-#### Project Overview
+### 3. [Neural Network Experiment](https://github.com/Alextheprogrammer3/Neutral-Network-Experiment)
 
-In this project, I analyzed data from Formula 1, focusing on constructors and drivers. Using a bipartite graph, I visualized relationships between constructors and drivers, analyzed centrality metrics to identify key players, and ensured network connectivity. The goal was to uncover insights into the interactions between different entities in the Formula 1 ecosystem and to understand the influence of various drivers and constructors.
+**Project Overview:**  
+This project involves experimenting with neural networks, focusing on various architectures and hyperparameters. The goal was to analyze how different configurations impact model performance, providing insights into optimizing neural networks for diverse data-driven tasks.
 
